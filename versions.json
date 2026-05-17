@@ -1,0 +1,9 @@
+{
+    "stable": {
+        "versionCode": 26,
+        "versionName": "1.11.8",
+        "releaseDate": "2026-02-17",
+        "downloadUrl": "https://github.com/crpz2/W4tchTV-releases/releases/download/v1.11.8/W4tchTV_v1.11.8-release.apk",
+        "changelog": "Stability Update 🛡️: Auto-Recovery bei Fehlern, Stall-Detection (Neustart wenn Bild hängt) und Drift-Protection."
+    }
+}
